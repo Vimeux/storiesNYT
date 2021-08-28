@@ -1,6 +1,6 @@
 <template>
   <div class="filter">
-    <!-- Start of select dropdown -->
+    <!-- début du dropdown -->
     <div class="filter-select">
       <select class="filter-select-input" v-model="section">
         <option
@@ -12,7 +12,7 @@
         </option>
       </select>
     </div>
-    <!-- End of select dropdown -->
+    <!-- fin du dropdown -->
     <div>
       <button class="filter-button" @click="fetch" >Retrieve</button>
     </div>
