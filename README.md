@@ -8,7 +8,7 @@ https://www.sitepoint.com/fetching-data-third-party-api-vue-axios/
 ```
 Ce projet sert d'entrainement au API et au requête asynchrone. L'API Top Stories du New York Times est utilisé pour affiché des articles et les triés grâce à un select. Les requêtes de l'API sont faites grâce à Axios:
 https://github.com/axios/axios
-
+```
 
 ## Project setup
 ```
